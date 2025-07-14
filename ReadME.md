@@ -20,11 +20,11 @@
 
 ### Form UI
 
-![Form Preview](Screenshot 2025-07-14 at 18.11.25.png)
+![Form Preview](/Users/abrarateeq/Desktop/SkillScore AI/Screenshot 2025-07-14 at 18.11.25.png)
 
 ### Report UI (After Submission)
 
-![Report Preview](Screenshot 2025-07-14 at 18.12.06.png)
+![Report Preview](/Users/abrarateeq/Desktop/SkillScore AI/Screenshot 2025-07-14 at 18.12.06.png)
 
 ---
 
