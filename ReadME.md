@@ -16,16 +16,6 @@
 
 ---
 
-## 📸 Preview
-
-### Form UI
-
-![Form Preview](/Users/abrarateeq/Desktop/SkillScore AI/Screenshot 2025-07-14 at 18.11.25.png)
-
-### Report UI (After Submission)
-
-![Report Preview](/Users/abrarateeq/Desktop/SkillScore AI/Screenshot 2025-07-14 at 18.12.06.png)
-
 ---
 
 ## 🚀 Getting Started
