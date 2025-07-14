@@ -16,6 +16,16 @@
 
 ---
 
+## 📸 Preview
+
+### Form UI
+
+![Form Preview](/screenshots/Screenshot%202025-07-14%20at%2018.11.25.png)
+
+### Report UI (After Submission)
+
+![Report Preview](/screenshots/Screenshot%202025-07-14%20at%2018.12.06.png)
+
 ---
 
 ## 🚀 Getting Started
