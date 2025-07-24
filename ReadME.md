@@ -10,8 +10,7 @@
 ## 🧠 Features
 
 ✅ Rate confidence in key tech skills  
-📊 Visual radar chart of your skill levels  
-🗺️ AI-powered roadmap for your weak areas  
+📊 Visual radar chart of your skill levels   
 💡 Clean and interactive UI using Streamlit
 
 ---
