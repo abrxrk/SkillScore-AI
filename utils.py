@@ -20,4 +20,4 @@ def get_roadmap(skills):
             templates = json.load(f)
         return "\n\n".join([f"### {s}\n{templates.get(s, 'Coming Soon...')}" for s in skills])
     except:
-        return "No roadmap templates found."
+        return "This is in the planning stage. Please check back later."
